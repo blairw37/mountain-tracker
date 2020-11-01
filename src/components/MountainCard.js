@@ -7,7 +7,6 @@ function MountainCard(props) {
         <div className="MountainCard">
             <Card style={{ width: '18rem' }}>
                 <Card.Body>
-                    <Card.Img variant="top" src="holder.js/100px180" />
                     <Card.Title>{props.name}</Card.Title>
                     <Card.Subtitle>{props.elevation} ft, {props.state}</Card.Subtitle>
                     <Button>Go somewhere</Button>

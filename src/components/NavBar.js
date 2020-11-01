@@ -9,7 +9,9 @@ import Button from 'react-bootstrap/Button'
 function NavBar() {
     return (
         <Navbar bg="light" expland="lg">
-            <Navbar.Brand href="#home">Mountain Tracker</Navbar.Brand>
+            <Navbar.Brand href="#home">
+               Mountain Tracker
+            </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
