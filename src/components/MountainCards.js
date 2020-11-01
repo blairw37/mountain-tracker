@@ -8,6 +8,18 @@ function MountainCards() {
             elevation: 6288,
             state: "NH",
             climbed: "N"
+        },
+        {
+            name: "Adams",
+            elevation: 5774,
+            state: "NH",
+            climbed: "N"
+        },
+        {
+            name: "Jefferson",
+            elevation: 5716,
+            state: "NH",
+            climbed: "N"
         }
     ]
 
